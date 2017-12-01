@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/clearly/plugin.ide.language.terraform.git"
+    "url": "http://github.com/gifflen/plugin.ide.language.terraform.git"
   },
   "plugins": {
     "plugin.ide.language.terraform": {
